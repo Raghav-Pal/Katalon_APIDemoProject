@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Addition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21dd9df8-4488-477d-846c-e12c74f6cdbf</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e35de888-d203-45a4-9253-b449702a744b</id>
+      <masked>false</masked>
+      <name>AdditionResult</name>
+   </variable>
+</TestCaseEntity>
